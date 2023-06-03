@@ -1,0 +1,14 @@
+Write a program that uses a print statement to say 'hello world' as shown in 'Desired Output'.
+
+
+Code-----
+
+print("hello world")
+
+
+********
+Desired Output
+hello world
+
+Your Output
+hello world
